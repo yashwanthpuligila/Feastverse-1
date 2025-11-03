@@ -271,4 +271,4 @@ Your Feastverse app includes everything:
 ---
 
 Made with ❤️ for food lovers everywhere
-
+Scroll, cook, and crave
