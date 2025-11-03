@@ -1,4 +1,4 @@
-# 🍽️ Feastverse - The Ultimate Food Social Platform
+# 🍽️ Feastverse - The Ultimate Food Social Platform 
 
 A full-stack food delivery and social media platform with Google OAuth, video reels, reviews, and real-time ordering.
 
